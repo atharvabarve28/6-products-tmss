@@ -1,0 +1,6 @@
+train: C:\Users\athar\OneDrive\Desktop\shopsynccc\train
+val: C:\Users\athar\OneDrive\Desktop\shopsynccc\val
+
+nc: 6
+
+names: ["Tropicana", "KurKure Green Chutney","Uno Cards","Swiss Roll","Frooti" ,"KurKure Masala Munch"]
